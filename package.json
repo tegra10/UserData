@@ -1,0 +1,26 @@
+{
+  "name": "userdata",
+  "version": "1.0.0",
+  "description": "projet d'exercice sequelize combiné à mysql partie back",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tegra10/UserData.git"
+  },
+  "author": "tegra dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tegra10/UserData/issues"
+  },
+  "homepage": "https://github.com/tegra10/UserData#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.11.0",
+    "sequelize": "^6.37.3"
+  }
+}
